@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Saurabh Tiwari 👋
 
-<!--
-**saurabhtiwri2047/saurabhtiwri2047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer (MERN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Learning Java Development
+
+☁️ Exploring AWS & Cloud Computing
+
+🚀 Goal: Become a Professional Software Engineer
+
+## Skills
+💻 Programming Languages
+Java
+JavaScript
+HTML5
+CSS3
+🎨 Frontend Development
+React.js
+Tailwind CSS
+⚙️ Backend Development
+Spring Boot
+Hibernate
+JDBC
+REST API
+🗄️ Database
+MySQL
+☁️ Cloud & DevOps
+AWS (Basics)
+🔧 Tools
+Git
+GitHub
+VS Code
+Postman
+📚 Currently Learning
+Advanced Java
+Microservices
+System Design
+AWS Cloud Services
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/saurabh-tiwari-1a5a34332/
+- GitHub: https://github.com/saurabhtiwri2047
+- Email: saurabhtiwari2047@gmail.com
