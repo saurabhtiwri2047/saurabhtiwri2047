@@ -16,23 +16,22 @@
 - JavaScript
 - HTML5
 - CSS3
-
-🎨 Frontend Development
+##🎨 Frontend Development
 - React.js
 - Tailwind CSS
 - NextJS
-⚙️ Backend Development
+##⚙️ Backend Development
 - Spring Boot
 - Hibernate
 - JDBC
 - REST API
 - Microservices
-🗄️ Database
+##🗄️ Database
 - MySQL
-☁️ Cloud & DevOps
+##☁️ Cloud & DevOps
 - Vercel
 - AWS (Basics)
-🔧 Tools
+##🔧 Tools
 - Git
 - GitHub
 - VS Code
@@ -42,7 +41,7 @@
 - MySQL workBench
 - Py Charm
 - PuTTYgen
-📚 Currently Learning
+##📚 Currently Learning
 - Advanced Java
 - System Design
 - AWS Cloud Services
