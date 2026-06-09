@@ -3,9 +3,7 @@
 ## About Me
 🎓 B.Tech CSE Student
 
-💻 Full Stack Developer (MERN)
-
-☕ Learning Java Development
+💻 Full Stack Developer (Java)
 
 ☁️ Exploring AWS & Cloud Computing
 
@@ -13,32 +11,41 @@
 
 ## Skills
 💻 Programming Languages
-Java
-JavaScript
-HTML5
-CSS3
+- Java
+- Python(Learning)
+- JavaScript
+- HTML5
+- CSS3
+
 🎨 Frontend Development
-React.js
-Tailwind CSS
+- React.js
+- Tailwind CSS
+- NextJS
 ⚙️ Backend Development
-Spring Boot
-Hibernate
-JDBC
-REST API
+- Spring Boot
+- Hibernate
+- JDBC
+- REST API
+- Microservices
 🗄️ Database
-MySQL
+- MySQL
 ☁️ Cloud & DevOps
-AWS (Basics)
+- Vercel
+- AWS (Basics)
 🔧 Tools
-Git
-GitHub
-VS Code
-Postman
+- Git
+- GitHub
+- VS Code
+- Postman
+- Intellij idea ultimate releases
+- Apache netbeans
+- MySQL workBench
+- Py Charm
+- PuTTYgen
 📚 Currently Learning
-Advanced Java
-Microservices
-System Design
-AWS Cloud Services
+- Advanced Java
+- System Design
+- AWS Cloud Services
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/saurabh-tiwari-1a5a34332/
 - GitHub: https://github.com/saurabhtiwri2047
