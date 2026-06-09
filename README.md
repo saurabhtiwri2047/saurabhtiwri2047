@@ -16,7 +16,8 @@
 - JavaScript
 - HTML5
 - CSS3
-##🎨 Frontend Development
+  
+🎨 Frontend Development
 - React.js
 - Tailwind CSS
 - NextJS
