@@ -61,12 +61,6 @@ Git • GitHub • VS Code • Postman • IntelliJ IDEA Ultimate • Apache Net
 
 🔄 Microservices Architecture
 
-## 🤝 Connect With Me
 
-💼 LinkedIn
-
-💻 GitHub
-
-📧 Email
 
 
